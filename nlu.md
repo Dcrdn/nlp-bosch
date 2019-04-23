@@ -1,0 +1,123 @@
+
+## intent:saludos
+- hey
+- Hello
+- Good morning
+- Good afternoon
+- Good evening
+- hi
+- what’s up
+- hey
+- yo
+- helo
+- hii
+- hey how are you
+- hi it is
+- It’s nice to meet you
+- It’s a pleasure to meet you
+- Morning!
+- G’day
+- Grettings!
+- Howdy
+- What’s new
+- Hola
+- Holaa
+- hola como estas
+- buenos dias
+- que onda
+- Buenas tardes
+- Mucho gusto
+- Ey!
+- Hola como estas
+- ola como esta
+- Que hay!
+- Buenos Dias
+- Buenas
+
+## intent:despedidas
+- thanks bye
+- bye
+- au revoir
+- goodbye
+- farewall
+- have a good day
+- have a nice day
+- take care
+- Bye!
+- Bye bye!
+- Later!
+- see you later
+- have a good one
+- so long
+- all right then
+- peace!
+- peace
+- i’m out
+- smell you later
+- Adios
+- Ciao
+- Arigato
+- See you later
+- See you soon
+- I’ve got get going
+- I must be going
+- Take it easy
+- I’m off
+- Goodnight
+- peace
+- Hasta luego
+- nos vemos gracias
+- Muchas gracias nos vemos
+- Hasta pronto
+- gracias por todo
+- fue un placer
+- gracias por todo
+
+## intent:cotizar
+- I would like to buy this product
+- I wanna buy
+- I would like to buy
+- buy this
+- give me the price
+- the price of this product
+- I want to buy
+- Can you give me the price
+- How much is it
+- How much does this cost?
+- How much is this?
+- What does this cost?
+- How much does it cost?
+- How much is it?
+- What does it cost?
+- What is the price?
+- Could you please tell me how much this costs?
+- I want to quote
+- I would like to quote
+- like to quote
+- Can I make a quote about this product
+- Check the price of
+- Me gustaría cotizar
+- cuanto cuesta este producto
+- cuanto cuesta?
+- cuál es el precio?
+- cuál sería el precio
+- A cuanto esta?
+- Quiero hacer una cotización
+- estos productos en cuanto saldrian
+- En cuanto saldrian?
+- Me podría proporcionar el precio?
+- Me podria proporcionar la cotización?
+- A cuanto me lo dejaría?
+- A cuanto esta?
+
+## intent:infoB
+- May I have Bosch contact information?
+- Can I have Boch contact info?
+- Bosch info
+- I want the bosch contact info
+- I would like to request Bosch contact information
+- I need bosch information
+- I want more information
+- I could have more info?
+- Me podria dar informacion de la empresa?
+- Necesito informacion de la empresa
